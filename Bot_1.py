@@ -1,6 +1,6 @@
 #импортировать нашу библиотеку и подключить токен бота:
 import telebot
-bot = telebot.TeleBot('6173671667:AAFIrvHOq3foGWP9j9qk0bmRxLhHjIgSKyY')
+bot = telebot.TeleBot('%Enter your BOT token%') #enter token
 
 #объявить метод для получения текстовых сообщений
 #объявили слушателя для текстовых сообщений и метод их обработки
